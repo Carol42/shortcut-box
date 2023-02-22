@@ -1,0 +1,38 @@
+{
+    "name": "VSCode",
+    "shortcuts": [
+      {
+        "key": "CTRL + SHIFT + P",
+        "command": "Open Command Palette"
+      },
+      {
+        "key": "CTRL + P",
+        "command": "Quick Open"
+      },
+      {
+        "key": "CTRL + B",
+        "command":"Toggle Sidebar"
+      },
+      {
+        "key": "CTRL + D",
+        "command": "Multi-Select Cursor"
+      },
+      {
+        "key": "SHIFT+ALT+UP or SHIFT+ALT+DOWN",
+        "command": "Copy Line"
+      },
+      {
+        "key": "SHIFT+ALT+A",
+        "command": "Multi-line Comment Code Block"
+      },
+      {
+        "key": "CTRL+K+C",
+        "command": "Single-line Comment Code Block"
+      },
+      {
+        "key": "CTRL + SHIFT + F",
+        "command": "Global Find"
+      }
+
+    ]
+  }
